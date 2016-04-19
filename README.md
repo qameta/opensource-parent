@@ -5,3 +5,13 @@
 [![build](https://img.shields.io/jenkins/s/http/ci.qatools.ru/opensource-parent_master-deploy.svg?style=flat)](http://ci.qatools.ru/job/opensource-parent_master-deploy/lastBuild/)
 
 The parent pom.xml for our open source projects
+
+To use simple add the following to your pom.xml:
+
+```xml
+<parent>
+    <groupId>ru.qatools</groupId>
+    <artifactId>opensource-parent</artifactId>
+    <version>$LATEST_VERSION</version>
+</parent>
+```
