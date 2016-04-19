@@ -4,7 +4,7 @@
 
     <groupId>ru.qatools</groupId>
     <artifactId>opensource-parent</artifactId>
-    <version>1.2-SNAPSHOT</version>
+    <version>1.2</version>
     <packaging>pom</packaging>
 
     <name>Open Source Parent</name>
@@ -31,7 +31,7 @@
         <url>https://github.com/qatools/opensource-parent</url>
         <connection>scm:git@github.com:qatools/opensource-parent.git</connection>
         <developerConnection>scm:git:git@github.com:qatools/opensource-parent.git</developerConnection>
-      <tag>HEAD</tag>
+      <tag>1.2</tag>
   </scm>
 
     <issueManagement>
