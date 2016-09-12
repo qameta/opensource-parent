@@ -4,7 +4,7 @@
 
     <groupId>io.qameta</groupId>
     <artifactId>opensource-parent</artifactId>
-    <version>1.3-SNAPSHOT</version>
+    <version>1.3</version>
     <packaging>pom</packaging>
 
     <name>Open Source Parent</name>
@@ -14,7 +14,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <sonatypeOssDistMgmtSnapshotsUrl>https://oss.sonatype.org/content/repositories/snapshots/</sonatypeOssDistMgmtSnapshotsUrl>
-        <arguments/>
+        <arguments />
 
         <compiler.version>1.8</compiler.version>
     </properties>
@@ -31,7 +31,7 @@
         <url>https://github.com/qameta/opensource-parent</url>
         <connection>scm:git@github.com:qameta/opensource-parent.git</connection>
         <developerConnection>scm:git:git@github.com:qameta/opensource-parent.git</developerConnection>
-      <tag>HEAD</tag>
+      <tag>1.3</tag>
   </scm>
 
     <issueManagement>
